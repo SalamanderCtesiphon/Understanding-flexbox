@@ -1,0 +1,12 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .child {
+    flex-grow: ;
+  }
+
+  .child-three {
+    flex-grow: 1;
+  }
